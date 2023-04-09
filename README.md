@@ -16,7 +16,7 @@ npx create-react-app youtube
 **🔥 Install**
 
 ```bash
-cd
+cd youtube
 npm install
 npm start
 ```
