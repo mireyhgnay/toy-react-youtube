@@ -36,3 +36,15 @@ npm start
 <br>
 
 ## My Study Note
+
+- [Youtube Open API 이해하고 사용하기]()
+
+<br>
+
+## URL
+
+- [Youtube Open API - Reference](https://developers.google.com/youtube/v3/docs?hl=ko)
+
+- [Youtube Open API - API 호출](https://developers.google.com/youtube/v3/docs?hl=ko#calling-the-api)
+
+- [Google API](https://code.google.com/apis/console/?hl=ko)
