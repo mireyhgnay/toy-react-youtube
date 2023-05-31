@@ -18,6 +18,7 @@ https://developers.google.com/youtube/v3/docs?hl=ko#calling-the-api
 - 모든 요청은 key 를 통해서 api를 호출할 수 있다.
 - 모든 삽입, 업데이트 및 삭제 요청 시에는 반드시 인증 토큰을 전송해야 합니다.
 - 유튜브에서 사용하는 주요 기능들에 대한 API 들을 어떻게 사용할 수 있는지 확인할 수 있다.👍
+
   ![youtube api category](https://github.com/mireyhgnay/toy-react-youtube/assets/111990266/ebd58f9e-50b9-4b90-8667-fa24ab92728b)
 
 <br>
