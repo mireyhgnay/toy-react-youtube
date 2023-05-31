@@ -2,7 +2,7 @@
 
 <br>
 
-## INFO
+## 📌 INFO
 
 **🔥 CRA**
 
@@ -35,13 +35,13 @@ npm start
 <br>
 <br>
 
-## My Study Note
+## ✏️ My Study Note
 
 - [Youtube Open API 이해하고 사용하기]()
 
 <br>
 
-## URL
+## 🔗 URL
 
 - [Youtube Open API - Reference](https://developers.google.com/youtube/v3/docs?hl=ko)
 
