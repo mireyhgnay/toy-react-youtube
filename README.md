@@ -42,6 +42,8 @@ npm start
 
 [2. API 사용해보기](https://github.com/mireyhgnay/toy-react-youtube/blob/main/study-note/API%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
 
+[3. mock data(stub data)란? 가짜 데이터]()
+
 <br>
 <br>
 
