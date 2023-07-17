@@ -40,7 +40,7 @@ npm start
 
 [1. Youtube Open API 이해하고 사용하기](https://github.com/mireyhgnay/toy-react-youtube/blob/main/study-note/Youtube%20Open%20API%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
-[2. API 사용해보기]()
+[2. API 사용해보기](https://github.com/mireyhgnay/toy-react-youtube/blob/main/study-note/API%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
 
 <br>
 <br>
