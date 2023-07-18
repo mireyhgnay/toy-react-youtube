@@ -44,6 +44,8 @@ npm start
 
 [3. mock data(stub data)란? 가짜 데이터](<https://github.com/mireyhgnay/toy-react-youtube/blob/main/study-note/mock%20data(stub%20data).md>)
 
+- [4. Router, Outlet 사용해서 페이지 생성하기](https://github.com/mireyhgnay/toy-react-youtube/blob/main/study-note/Router%2C%20Outlet%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0.md)
+
 <br>
 <br>
 
