@@ -69,3 +69,15 @@ root.render(
 **`CreateBrowserRouter`** 를 사용해서 경로를 지정하고,
 
 **`RouterProvider`** 를 이용해서 구성요소들을 전달하고 활성화 합니다.
+
+<br>
+
+---
+
+<br>
+
+### @Reference
+
+- [📁 React Router 사용하기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20Router%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [📁 Outlet 사용하기](https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20Outlet%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- [📁 React : Param (상세페이지) 사용하기](<https://github.com/mireyhgnay/dream-react-study/blob/main/study-note/React%20:%20Param(%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80)%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md>)
